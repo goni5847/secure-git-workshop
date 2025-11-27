@@ -5,6 +5,6 @@ updates:
 
   # Maintain dependencies for Python
   - package-ecosystem: "pip"
-    directory: "/app"
+    directory: "/"
     schedule:
       interval: "daily"
